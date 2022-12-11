@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601419258516",
+    "project_id": "firestore-app-469d1",
+    "storage_bucket": "firestore-app-469d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601419258516:android:718ffa46fa0228e1f53281",
+        "android_client_info": {
+          "package_name": "com.radjapov.firestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601419258516-m4napjb8ftg4tmn3l1qlv6h6vinmujbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAupTwi42u3qseigXC92SC79l45nfDMwLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601419258516-m4napjb8ftg4tmn3l1qlv6h6vinmujbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
